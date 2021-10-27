@@ -7,7 +7,7 @@ Você pode gerar seu próprio endereço de e-mail ou pode gerar um endereço de 
 
 *** Por razões de segurança, você não pode ler mensagens de endereços: abuse@domain, webmaster@domain, contato@domain, postmaster@domain, hostmaster@domain, admin@domain. Todos os outros endereços são de uso gratuito. *** - equipe 1secmail -
 
-! [mailswipe] (https://user-images.githubusercontent.com/55880211/94339230-e61e7100-0015-11eb-942a-cd1085179ff4.gif)
+![mailswipe](https://user-images.githubusercontent.com/55880211/94339230-e61e7100-0015-11eb-942a-cd1085179ff4.gif)
 
 ## Instalação Git
 `` `
